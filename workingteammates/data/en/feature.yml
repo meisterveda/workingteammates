@@ -1,27 +1,27 @@
 ############################# feature ###################################
 feature:
   enable : true
-  image : images/about/about-business-man.jpg
-  image_webp : images/about/about-business-man.webp
-  title : We’re A Digital Design Agency.
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam tempora itaque, autem dolores culpa cum mollitia voluptate nesciunt voluptatibus quasi."
+  image : images/about/about.jpg
+  image_webp : images/about/about.webp
+  title : We’re A Digital & Development Project.
+  content : "Created to help and provide a service to many that in time of needs in this cruel world need a leg up with a startup, a brand, a project, or an idea. We are here to help, here to serve, here to lift others up."
   feature_item : 
       # feature item loop
-    - title : SEO Optimized
+    - title : SEO Optimized Websited
       icon : ti-world # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+      content : We look to create a SEO Optimized Web presence, that will help others be exposed and easy to find, making it simple to new projects or carrers to move forward.
       
       # feature item loop
-    - title : Easy Customization
+    - title : Easy Creation
       icon : ti-panel # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+      content : Fast and Easy creation, we help and deliver a finished product with minimal maintenance and modifications neccesary. Provide the content and Images and let Us take care of the Development.
 
       # feature item loop
-    - title : SEO Optimized
+    - title : Growth Focused
       icon : ti-stats-up # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+      content : Here to grow in a complicated world, With social awareness, SEO optimization and just a good looking design will help with whats next.
       
       # feature item loop
-    - title : Easy Customization
+    - title : Giving Voice
       icon : ti-announcement # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+      content : Providing a place to help others, Development and Creation of simple websites, making it so that complicated and convoluted workflows and expenses can be bypassed for simple creations to helps those that can't choose between a meal and a new project or a new job.

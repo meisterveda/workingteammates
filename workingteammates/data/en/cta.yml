@@ -1,11 +1,11 @@
 ############################# call to action ##############################
 cta:
   enable : true
-  bg_image : "images/backgrounds/bg-white-wall.jpg"
-  bg_image_webp : "images/backgrounds/bg-white-wall.webp"
-  title : "Great Design & Incredible Features"
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis tenetur odio impedit incidunt? Omnis accusantium ea reiciendis, fugit commodi nostrum."
+  bg_image : "images/backgrounds/cta.jpg"
+  bg_image_webp : "images/backgrounds/cta.webp"
+  title : "Let us Help you, Request a Site"
+  content : "If you are looking where to start just follow the button, it will direct you to a form that allows you to get us contact you, this will provide you an opportunity to tell us what you need, what you want and why."
   button:
     enable : true
     label : "Start a project with us"
-    link : "#contact"
+    link : "https://forms.gle/j6tWscV2XVYLKJuD8"

@@ -4,31 +4,31 @@ service:
   title : Our Services
   service_item :
     # service item loop
-    - name : WordPress Theme
+    - name : Portfolio
       icon : ti-world # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+      content : Showcase your work for everyone, have a presence that is yours online giving you exposure for what you do and how you want to be percieved.
       
     # service item loop
-    - name : Responsive Design
+    - name : Resume
       icon : ti-layout # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+      content : When on the Job hunt a simple website that lists your achievement is what you need, helping you show your future employer what you can do, who you are and what you want to become.
       
     # service item loop
-    - name : Media &amp; Advertisement
+    - name : Blog
       icon : ti-blackboard # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+      content : Share your knowledge with the world, look for similar minded individuals or establish important viewpoints around the world with a simple blog.
       
     # service item loop
-    - name : Graphic Design
+    - name : Personal Brand
       icon : ti-palette # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+      content : Make yourself known, get famous, look for more oportunities around the work by making your personal brand online.
       
     # service item loop
-    - name : Apps Development
+    - name : Online Store
       icon : ti-package # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+      content : Start your online store to start selling what you make, look for a marketplace that is yours alone giving you and your products the spotlight.
       
     # service item loop
-    - name : Networking
+    - name : Business Site
       icon : ti-pulse # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+      content : Making a Business site is an important step for any business that wants to surivive in this rutheless world, let us help you achieve that.

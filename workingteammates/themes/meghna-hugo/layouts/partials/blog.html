@@ -1,3 +1,6 @@
+{{ $data := index .Site.Data .Site.Language.Lang }}
+
+{{ if $data.blog.blog.enable }}
 {{ if gt .Site.RegularPages 0}}
 {{"<!-- Start Blog Section -->" | safeHTML}}
 <section id="blog" class="section">
@@ -25,4 +28,5 @@
 	</div>
 </section>
 {{"<!-- /blog -->" | safeHTML}}
+{{ end }}
 {{ end }}
