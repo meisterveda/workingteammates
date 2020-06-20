@@ -5,8 +5,8 @@ banner:
   bg_image : "images/backgrounds/header.jpg"
   icon : "" # themify icon pack : https://themify.me/themify-icons
   title : "Working Teammantes"
-  content : "A Group of passionate Individuals that want to help others and provide the community with a simple but neccesary service, free web development for individuals with needs. Lets Us help you be online, have a online presence that can showcase your Brand, your Personality, your Business or your Experience!"
+  content : "A Group of passionate Individuals that want to help others and provide the community with a simple but necessary service, free web development for individuals with needs. Lets Us help you be online, have a online presence that can showcase your Brand, your Personality, your Business or your Experience!"
   button:
-    enable : false
-    label : "Explore Us"
+    enable : true
+    label : "Explore Our Services"
     link : "#services"
